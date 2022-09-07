@@ -1,4 +1,9 @@
-### Olá, Eu sou o Leo 👋
+### Olá, Eu sou o Leo ✌🏾
+
+* Tenho 2️⃣4️⃣ anos
+* 💻 Atuo como dev a 1 ano e meio
+* 🦅 Atualmente venho trabalhando no sistema [Hapia Soft](https://harpialab.com.br)
+* 🌐 Venho me aventurando e aprendendo tecnologias atuais e aplicando em projetos pessoas
 
 <div>
   <a href="https://github.com/GaLfoTorTo"></a>
@@ -8,35 +13,18 @@
 
 ## Tecnologias Utilizadas
 
-### Javascript
 <div style="display: inline; margin-top: 30em;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="30" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30" height="30"/>
-</div>
-
-### PHP
-<div style="display: inline; margin-top: 30em;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="30" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="30" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" width="30" height="30"/>
-</div>
-
-### Python
-<div style="display: inline; margin-top: 30em;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" height="30"/>
-</div>
-
-### CSS
-<div style="display: inline; margin-top: 30em;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="30" height="30"/>
-</div>
-
-### HTML
-<div style="display: inline; margin-top: 30em;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" height="30"/>
 </div>
 
