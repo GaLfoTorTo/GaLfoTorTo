@@ -3,7 +3,7 @@
 * Tenho 2️⃣4️⃣ anos
 * 💻 Atuo como dev a 1 ano e meio
 * 🦅 Atualmente venho trabalhando no sistema [Hapia Soft](https://harpialab.com.br)
-* 🌐 Venho me aventurando e aprendendo tecnologias atuais e aplicando em projetos pessoas
+* 🌐 Venho me aventurando e aprendendo tecnologias atuais
 
 <div>
   <a href="https://github.com/GaLfoTorTo"></a>
