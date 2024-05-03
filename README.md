@@ -1,7 +1,7 @@
 ### Olá, Eu sou o Leo ✌🏾
 
-* Tenho 2️⃣4️⃣ anos
-* 💻 Atuo como dev a 1 ano e meio
+* Tenho 2️⃣6️⃣ anos
+* 💻 Atuo como dev a 3 anos
 * 🦅 Atualmente venho trabalhando no sistema [Hapia Soft](https://harpialab.com.br)
 * 🌐 Venho me aventurando e aprendendo tecnologias atuais
 
