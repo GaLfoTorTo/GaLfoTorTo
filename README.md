@@ -7,8 +7,8 @@
 
 <div>
   <a href="https://github.com/GaLfoTorTo"></a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GaLfoTorTo&include_all_commits=true&locale=pt-br&show_icons=true&title_color=000&text_color=000&icon_color=ffc107&border_color=00c846&bg_color=DEG,00ffff,35ff60&custom_title=Minhas%20atividades"/>  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=GaLfoTorTo&layout=compact&locale=pt-br&show_icons=true&title_color=000&text_color=000&icon_color=ffc107&border_color=00c846&bg_color=35ff60"/>
+  <img height="180em" src="https://github-readme-stats-indol-nu-26.vercel.app/api?username=GaLfoTorTo&include_all_commits=true&count_private=true&locale=pt-br&show_icons=true&title_color=000&text_color=000&icon_color=ffc107&border_color=00c846&bg_color=DEG,00ffff,35ff60&custom_title=Minhas%20atividades"/>  
+  <img height="180em" src="https://github-readme-stats-indol-nu-26.vercel.app/api/top-langs?username=GaLfoTorTo&layout=compact&locale=pt-br&show_icons=true&title_color=000&text_color=000&icon_color=ffc107&border_color=00c846&bg_color=35ff60"/>
 </div>
 
 ## Tecnologias Utilizadas
