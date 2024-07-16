@@ -2,6 +2,7 @@
 
 * Tenho 2️⃣6️⃣ anos
 * 💻 Atuo como dev a 3 anos
+* ⚽ Idealizador e Criador do Futzada
 * 🦅 Atualmente venho trabalhando no sistema [Hapia Soft](https://harpialab.com.br)
 * 🌐 Venho me aventurando e aprendendo tecnologias atuais
 
