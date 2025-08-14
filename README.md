@@ -1,10 +1,10 @@
 ### Olá, Eu sou o Leo ✌🏾
 
-* Tenho 2️⃣6️⃣ anos
-* 💻 Atuo como dev a 3 anos
+* Tenho 27 anos
+* 💻 Atuo como dev a 4 anos
 * ⚽ Idealizador e Criador do Futzada
-* 🦅 Atualmente venho trabalhando no sistema [Hapia Soft](https://harpialab.com.br)
-* 🌐 Venho me aventurando e aprendendo tecnologias atuais
+* 🦅 Desenvolvedor Full Stack do [Hapia Soft](https://harpialab.com)
+* 🌐 Entusiasta e aventureiro do mundo da tecnologia.
 
 <div>
   <a href="https://github.com/GaLfoTorTo"></a>
